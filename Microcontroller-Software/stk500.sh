@@ -1,0 +1,1 @@
+ avrdude -c stk500 -p m8 -P /dev/ttyUSB1  -v -n -t

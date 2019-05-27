@@ -1,0 +1,47 @@
+_________________________________________________________________________________
+|  Freifunk-Libremesh-TVWS-Converter						|
+|  Copyright Corinna "Elektra" Aichele 2019.					|
+|										|
+|  This documentation describes Open Hardware and is licensed under the CERN	|
+|  OHL v. 1.2.									|
+|										|
+|  You may redistribute and modify this documentation under the terms of the	|
+|  CERN OHL v.1.2.  (http://ohwr.org/cernohl).  This documentation is		|
+|  distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF		|
+|  MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.	| 
+|  Please see the CERN OHL v.1.2 for applicable conditions.			|
+|										|
+|  The full license text of CERN OHL v.  1.2.  is also available in the folder	|
+|  containing this file.							|		
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+
+
+Subfolders and files herein contain the hardware documentation and µC
+software tools for the Freifunk/Libremesh WiFi to TV-Whitespace frequency
+converter prototype for up and downshifting WiFi TX and RX for single stream
+or 2T2R radios.
+
+With regards to hardware documentation, the License is CERN OHL v. 1.2. 
+Software components are licensed under GNU General Public License, as
+published by the Free Software Foundation, either version 2 or later. See
+http://www.gnu.org/licenses/.
+
+The CAD program used to make the schematic and pcb design is Design Spark,
+available here:
+
+https://www.rs-online.com/designspark/pcb-software
+
+You can get Designspark licenses for free, but the program itself is not
+open source.  It requires e-mail registration.
+
+Note: Some component values are preliminary and may depend on the frequency
+band you intend to use.
+
+Legal operation of the device in your country probably requires a license.
+
+Use at your own risk, have fun, and donate:
+
+feedback/support/code/improvements/suggestions/beer/juice/cookies.
+
+Contact: Elektra Wagenrad at onelektra at gmx net
+
