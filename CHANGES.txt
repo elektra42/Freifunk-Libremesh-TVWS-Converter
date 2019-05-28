@@ -1,0 +1,2 @@
+Information about modifications made by Licensee (see section 3.4.b of CERN
+Open Hardware License V 1.2 ) are supposed to be listed and published here.
